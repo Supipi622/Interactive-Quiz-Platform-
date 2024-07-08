@@ -1,0 +1,30 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 0 0 0;
+}
+
+.card-wrap {
+    padding: 50px 20px 40px 20px;
+}
+
+.card-title{
+    color:#000080;
+}
+.card-text{
+    color:#000000;
+}
+.btn{
+    font-size:15px;
+    float: right;
+    margin-right: 8px;
+}
+
+#logOut {
+float: right;
+}
+footer{
+margin-top: auto;
+} 

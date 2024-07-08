@@ -1,0 +1,27 @@
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-top: 80px;
+}
+
+.nav-item{
+  list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#searchElement{
+  float: right;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,17 @@
+.card {
+    margin: 20px;
+	padding: 40px;
+    background-color:LightGray;
+}
+.card-title{
+    color:#000080;
+}
+.card-text{
+    color:#000000;
+}
+
+.btn{
+    font-size:15px;
+    float: right;
+    margin-right: 8px;
+}
